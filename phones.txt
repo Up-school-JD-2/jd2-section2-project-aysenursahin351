@@ -1,0 +1,5 @@
+John,Doe,1234567890,john.doe@example.com,Samsung,Galaxy S20,128GB,1234567890,Android
+Jane,Smith,9876543210,jane.smith@example.com,Apple,iPhone 12,256GB,9876543210,iOS
+Alice,Johnson,5555555555,alice.johnson@example.com,Google,Pixel 5,64GB,5555555555,Android
+Bob,Brown,1111111111,bob.brown@example.com,OnePlus,9 Pro,256GB,1111111111,Android
+Emma,Davis,9999999999,emma.davis@example.com,Xiaomi,Mi 11,128GB,9999999999,Android
