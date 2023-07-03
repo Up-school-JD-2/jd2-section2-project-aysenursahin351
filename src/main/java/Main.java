@@ -198,7 +198,7 @@ public class Main {
 					String updateName=scanner.nextLine();    
 					PhoneManagement.updatePhone(phoneList, updateName);
 					System.out.println("New Phone List");
-					System.out.println(phoneList);
+	                  Phone.displayPhoneList(phoneList);
 
                }
 	           else if (dataChoice11.equalsIgnoreCase(Constants.ADD)) {
@@ -216,6 +216,7 @@ public class Main {
 		        	   System.out.println("you have to choose");
 		           }
 
+		           
                }
 	           else if (dataChoice11.equalsIgnoreCase(Constants.MENU)) {
 	        	   Menu();
